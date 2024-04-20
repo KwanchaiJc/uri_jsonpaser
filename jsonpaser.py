@@ -15,7 +15,7 @@
 import os
 import json
 
-path = 'D:\S_R_I\SECUPI\Siammakro\KhunNanLog'
+path = 'Directory'
 
 folder = os.fsencode(path)
 
